@@ -698,32 +698,3 @@
         max-width: none;
     }
 }
-@media (max-width: 300px) {
-    .section{
-        margin-bottom: 0;
-    }
-    .container{
-        max-width: 100%;
-    }
-    .catalog,.section-workflow,.sect{
-        padding-bottom: 0;
-    }
-    .intro-section{
-        margin-bottom: 200px;
-    }
-    .catalog-content,.workflow-content, .gear-content, .technology-content{
-        padding: 95px 0px;
-        max-width: 250px;
-    }
-    .catalog-img, .gear-img,.technology-img{
-        top: 0%;
-    }
-    .workflow-img{
-        top: -15%;
-    }
-    .catalog-title,.workflow-title, .gear-title, .technology-title{
-        line-height: 28px;
-        font-size: 20px;
-    }
-    
-}
